@@ -1,6 +1,6 @@
 #include
-int a,b,c,d,e;
+int a,b,c,d,e,g;
 c=a+b;
 d=d-c;
-e-c+d
+e=c+d
 clrscr();
